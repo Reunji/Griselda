@@ -13,6 +13,7 @@ namespace GriseldaExample
             GriseldaMember BennyTheButcher = new GriseldaMember("BennyTheButcher");
             GriseldaMember WestSideGunn = new GriseldaMember("West Side Gunn");
             GriseldaMember ConwayTheMachine = new GriseldaMember("ConwayTheMachine");
+            GriseldaMember Daringer = new GriseldaMember("Daringer");
         }
     }
 }
